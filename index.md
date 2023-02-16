@@ -1,8 +1,8 @@
 # Bienvenido a mi página de GitHub
 
 
-![imagen](![imagen](https://user-images.githubusercontent.com/57028008/219259279-21ed10fe-0e52-409d-9f7d-54fa6f846ac2.png)
-)
+![imagen](https://user-images.githubusercontent.com/57028008/219259279-21ed10fe-0e52-409d-9f7d-54fa6f846ac2.png)
+
 
 Hola, mi nombre es Karla Lilibeth Ramirez Peñafiel y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
